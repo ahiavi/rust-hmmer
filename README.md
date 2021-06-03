@@ -1,9 +1,11 @@
 [![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](https://github.com/STRIDES-Codes/rust-hmmer/blob/master/LICENSE)
 [![Security audit](https://github.com/STRIDES-Codes/rust-hmmer/actions/workflows/security_audit.yml/badge.svg)](https://github.com/STRIDES-Codes/rust-hmmer/actions/workflows/security_audit.yml)
 
+<p align="center">
+    <img src="./img/rust-hmmer.png" height="100em" width="auto" alt="rust-hmmer"/>
+</p> 
 
-
-# <img src="./img/rust-hmmer.png" height="80em" width="auto"/> rust-hmmer: simple Rust parser for hmmer output files
+# rust-hmmer: simple Rust parser for hmmer output files
 
 This library aims to provide a Rust parser for hmmer output files.
 
