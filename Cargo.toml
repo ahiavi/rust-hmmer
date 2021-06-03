@@ -1,0 +1,19 @@
+[package]
+name = "rust-hmmer"
+version = "0.1.0"
+authors = ["Anicet Ebou <anicet.ebou@gmail.com>"]
+description = "Simple Rust parser for hmmer output files"
+license = "MIT"
+repository = "https://github.com/STRIDES-Codes/rust-hmmer"
+homepage = "https://github.com/STRIDES-Codes/rust-hmmer"
+readme = "README.md"
+edition = "2018"
+
+[dependencies]
+regex       = "1"
+lazy_static = "1.4.0"
+thiserror   = "1.0"
+
+[dev-dependencies]
+tempfile = "3"
+criterion = "0.3"
