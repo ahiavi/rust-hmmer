@@ -5,7 +5,7 @@
     <img src="./img/rust-hmmer.png" height="100em" width="auto" alt="rust-hmmer"/>
 </p> 
 
-# rust-hmmer: simple Rust parser for hmmer output files
+# rust-hmmer: a simple Rust parser for hmmer output files
 
 This library aims to provide a Rust parser for hmmer output files.
 
