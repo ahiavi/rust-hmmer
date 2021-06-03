@@ -1,5 +1,5 @@
 [![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](https://github.com/STRIDES-Codes/rust-hmmer/blob/master/LICENSE)
-![CI](https://github.com/STRIDES-Codes/rust-hmmer/workflows/CI/badge.svg)
+![Security](https://github.com/STRIDES-Codes/rust-hmmer/workflows/Security audit/badge.svg)
 
 # rust-hmmer: simple Rust parser for hmmer output files
 
